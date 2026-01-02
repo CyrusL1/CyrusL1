@@ -1,4 +1,4 @@
-# Hey 👋, I'm *ℛ𝑜𝒸*
+# Hey 👋, I'm *Wayne*
 
 ### 博学、审问、慎思、明辨、笃行
 
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-Hey guys, I'm **Power🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest Community members**, **OpenBuild Community members**, and **Opencamp Community members**. Currently, I'm a DevSecOps Engineer focusing on cloud computing, passionate about blockchain technology, cloud computing, and network security.
+Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest Community members**, **OpenBuild Community members**, and **Opencamp Community members**. Currently, I'm a DevSecOps Engineer focusing on cloud computing, passionate about blockchain technology, cloud computing, and network security.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHNmaGh5NW9yNWRrNnZqa2J1YTdoaDNjc21yNmxxMW9ldmhnNzY0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif" />
 
@@ -57,16 +57,16 @@ Hey guys, I'm **Power🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue-dark&show_icons=true&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue&show_icons=true&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=xxRoc&theme=vue&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CyrusL1&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CyrusL1&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=CyrusL1&theme=vue&show_icons=true&hide_border=true">
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue-dark&layout=compact&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue&layout=compact&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRoc&theme=vue&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusL1&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusL1&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusL1&theme=vue&layout=compact&hide_border=true">
         </picture>
       </td>
     </tr>
