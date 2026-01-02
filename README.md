@@ -35,7 +35,7 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 - 🤔 My interests are with data analysis, quantitative trading, network security, DeFi protocols, and smart contract auditing;
 - 💼 I'm passionate about open source projects and blockchain innovation;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [HomePage](https://newpower.pro) to get more info.
+- 📝 See my [HomePage](https://CyrusL1.github.io) to get more info.
 
 **Languages and Tools:**  
 
@@ -52,7 +52,7 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 <code><img height="18" src="https://skillicons.dev/icons?i=kubernetes"></code>
 <!-- <code><img height="18" src="https://skillicons.dev/icons?i=仓颉"></code> -->
 
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td>
@@ -71,4 +71,4 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
