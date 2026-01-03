@@ -36,6 +36,7 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 - 💼 I'm passionate about open source projects and blockchain innovation;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my <a href="https://CyrusL1.github.io" target="_blank">HomePage</a> to get more info.
+<!-- - 📝 See my [HomePage](https://CyrusL1.github.io) to get more info. -->
 
 **Languages and Tools:**  
 
