@@ -3,21 +3,21 @@
 ### 博学、审问、慎思、明辨、笃行
 
 <a href="https://www.x.com/_xxRoc_">
-  <img align="left" alt="xxRoc's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Wayne's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pengwang-li-8564a5378">
-  <img align="left" alt="xxRoc's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Wayne's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100094803286405">
-  <img align="left" alt="xxRoc's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Wayne's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://discord.com">
-  <img align="left" alt="PowerLee's discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Wayne's discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 
 <!-- <a href="mailto:sunk1ng@foxmail.com">
-  <img align="left" alt="PowerLee's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Wayne's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> -->
 
 
@@ -35,7 +35,7 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 - 🤔 My interests are with data analysis, quantitative trading, network security, DeFi protocols, and smart contract auditing;
 - 💼 I'm passionate about open source projects and blockchain innovation;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 See my [HomePage](https://CyrusL1.github.io) to get more info.
+- 📝 See my <a href="https://CyrusL1.github.io" target="_blank">HomePage</a> to get more info.
 
 **Languages and Tools:**  
 
@@ -50,7 +50,7 @@ Hey guys, I'm **Wayne🤷‍♂️**, a **Rookie Programmer 🐦**, **HackQuest 
 <code><img height="18" src="https://skillicons.dev/icons?i=kali"></code>
 <code><img height="18" src="https://skillicons.dev/icons?i=docker"></code>
 <code><img height="18" src="https://skillicons.dev/icons?i=kubernetes"></code>
-<!-- <code><img height="18" src="https://skillicons.dev/icons?i=仓颉"></code> -->
+<!-- <code><img height="18" src="https://skillicons.dev/icons?i=cangjie"></code> -->
 
 <!-- <table>
   <tbody>
